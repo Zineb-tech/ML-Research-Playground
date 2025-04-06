@@ -12,7 +12,9 @@ Data Preprocessing: Data cleaning, feature scaling, encoding categorical data
 
 Model Evaluation: Cross-validation, accuracy, precision, recall, F1 score, etc.
 
+<span style="color: green;">Technologies Used</span>
 Technologies Used
+
 Python
 
 NumPy, Pandas
